@@ -35,13 +35,13 @@ This project visualizes Airbnb listing data to uncover pricing patterns and insi
 
 ## 🔗 Dashboard View on Tableau Public
 
-You can download the tableau workbook package - Interactive Dashboard <a href="https://github.com/AsuquoAA/Air_BnB_Analysis_Dashboard-Tableau-/blob/main/Tableau%20Dashboard%20(Air%20Bnb).twbx">here</a> or view the interactive dashboard [on Tableau Public]([https://public.tableau.com/app/profile/anthony.asuquo/viz/FirstTableauDashboardAirBnb/Dashboard1]) 
+You can download the tableau workbook package - Interactive Dashboard <a href="https://github.com/AsuquoAA/Air_BnB_Analysis_Dashboard-Tableau-/blob/main/Tableau%20Dashboard%20(Air%20Bnb).twbx">here</a> or view the interactive dashboard <a href="https://public.tableau.com/app/profile/anthony.asuquo/viz/FirstTableauDashboardAirBnb/Dashboard1">here</a> 
 
 ---
 
 ## Dashboard Preview
 
-- Dashboard: <a href="https://github.com/AsuquoAA/Air_BnB_Analysis_Dashboard-Tableau-/blob/main/Dashboard%201.pdf">Dashboard</a>
+![Dashboard Preview](https://github.com/AsuquoAA/Air_BnB_Analysis_Dashboard-Tableau-/blob/main/Screenshot%202025-04-06%20at%2023.13.05.png)
 
 ---
 
