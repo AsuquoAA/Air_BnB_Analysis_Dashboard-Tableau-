@@ -4,6 +4,14 @@
 
 ---
 
+
+## 📈 Summary for Recruiters & Hiring Managers
+
+Developed an interactive Tableau dashboard using the 2016 Kaggle Airbnb dataset to uncover pricing dynamics across Seattle-area zip codes and bedroom counts. Key insights include identifying zip code 98119 as having the highest average nightly rate ($171.10), showing that 5-bedroom listings average $584.80 per night, and visualizing weekly price fluctuations via a calendar heatmap—empowering hosts with data-driven pricing strategies.
+
+---
+
+
 ## 📁 Project Overview
 
 This project visualizes Airbnb listing data to uncover pricing patterns and insights based on key factors like location, time, and number of bedrooms. The goal is to provide a clear, interactive overview of how Airbnb prices vary in different zip codes and across bedroom counts.
